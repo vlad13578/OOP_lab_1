@@ -1,0 +1,7 @@
+C:\Users\Макс\source\repos\ZH\ZH\bin\Debug\ZH.exe.config
+C:\Users\Макс\source\repos\ZH\ZH\bin\Debug\ZH.exe
+C:\Users\Макс\source\repos\ZH\ZH\bin\Debug\ZH.pdb
+C:\Users\Макс\source\repos\ZH\ZH\obj\Debug\ZH.csprojAssemblyReference.cache
+C:\Users\Макс\source\repos\ZH\ZH\obj\Debug\ZH.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\ZH\ZH\obj\Debug\ZH.exe
+C:\Users\Макс\source\repos\ZH\ZH\obj\Debug\ZH.pdb
